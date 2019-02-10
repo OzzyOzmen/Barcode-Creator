@@ -1,0 +1,15 @@
+C:\Users\Ozzy\Desktop\barcode_src\BarcodeLibTest\obj\Debug\BarcodeLibTest.csprojResolveAssemblyReference.cache
+C:\Users\Ozzy\Desktop\barcode_src\BarcodeLibTest\obj\Debug\BarcodeLibTest.BarkodOkuyucu.resources
+C:\Users\Ozzy\Desktop\barcode_src\BarcodeLibTest\obj\Debug\BarcodeLibTest.Properties.Resources.resources
+C:\Users\Ozzy\Desktop\barcode_src\BarcodeLibTest\obj\Debug\BarcodeLibTest.csproj.GenerateResource.Cache
+C:\Users\Ozzy\Desktop\barcode_src\BarcodeLibTest\bin\Debug\Release Notes.txt
+C:\Users\Ozzy\Desktop\barcode_src\BarcodeLibTest\bin\Debug\BarcodeLibTest.exe.manifest
+C:\Users\Ozzy\Desktop\barcode_src\BarcodeLibTest\bin\Debug\BarcodeLibTest.application
+C:\Users\Ozzy\Desktop\barcode_src\BarcodeLibTest\bin\Debug\BarcodeLibTest.exe
+C:\Users\Ozzy\Desktop\barcode_src\BarcodeLibTest\bin\Debug\BarcodeLibTest.pdb
+C:\Users\Ozzy\Desktop\barcode_src\BarcodeLibTest\bin\Debug\BarcodeLib.dll
+C:\Users\Ozzy\Desktop\barcode_src\BarcodeLibTest\bin\Debug\BarcodeLib.pdb
+C:\Users\Ozzy\Desktop\barcode_src\BarcodeLibTest\obj\Debug\BarcodeLibTest.exe.manifest
+C:\Users\Ozzy\Desktop\barcode_src\BarcodeLibTest\obj\Debug\BarcodeLibTest.application
+C:\Users\Ozzy\Desktop\barcode_src\BarcodeLibTest\obj\Debug\BarcodeLibTest.exe
+C:\Users\Ozzy\Desktop\barcode_src\BarcodeLibTest\obj\Debug\BarcodeLibTest.pdb

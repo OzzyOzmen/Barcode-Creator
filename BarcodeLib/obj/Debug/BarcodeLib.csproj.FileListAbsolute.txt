@@ -1,0 +1,5 @@
+C:\Users\Ozzy\Desktop\barcode_src\BarcodeLib\bin\Debug\Release Notes.txt
+C:\Users\Ozzy\Desktop\barcode_src\BarcodeLib\bin\Debug\BarcodeLib.dll
+C:\Users\Ozzy\Desktop\barcode_src\BarcodeLib\bin\Debug\BarcodeLib.pdb
+C:\Users\Ozzy\Desktop\barcode_src\BarcodeLib\obj\Debug\BarcodeLib.dll
+C:\Users\Ozzy\Desktop\barcode_src\BarcodeLib\obj\Debug\BarcodeLib.pdb
